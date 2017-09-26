@@ -1,14 +1,19 @@
 body {
     background-color: yellow;
+    font-family: Garamond, Helvetica, Calibri;
+    margin: auto;
 }
 
 h1 {
 	font-size: 42px;
+	
+	
 }
 
 h2 {
 	border-bottom: solid black;
-	font-size: 36px;
+	font-size: 20px;
+	
 }
 
 p {
